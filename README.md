@@ -15,3 +15,5 @@ Connect servos, LED, and camera
 execute: python3 objectDetectTrack.py
 
 Don't forget to setup colour mask and change code accordingly
+
+https://youtu.be/8y-L9tuKWL0
